@@ -4,7 +4,7 @@ working...
 
 ## Get coordinates data
 
-## Add it to index.js
+## Add coordinates to index.js
 
 ## Use read_txt.py to process
 
